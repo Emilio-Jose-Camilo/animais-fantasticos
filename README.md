@@ -12,10 +12,8 @@
 - <a href="#autor">Autor</a>
 
 ## Videos
-Mobile:
 https://github.com/Emilio-Jose-Camilo/animais-fantasticos/assets/121612644/127cee7f-d4d6-4675-b390-eeb9b19ef50f
 
-Desktop:
 https://github.com/Emilio-Jose-Camilo/animais-fantasticos/assets/121612644/415433b4-e8e1-4e51-bcbf-66f834f977d8
 
 
