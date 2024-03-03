@@ -34,7 +34,7 @@ https://github.com/Emilio-Jose-Camilo/animais-fantasticos/assets/121612644/41543
 
 ## Demonstraçao
 
-[Link demonstração](https://emilio-jose-camilo.github.io/)
+[Link demonstração](https://65e4385d7dacf15cf4f977fb--benevolent-kitsune-09ff15.netlify.app/)
 
 ## Como rodar o projeto?
 
